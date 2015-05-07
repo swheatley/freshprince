@@ -1,0 +1,29 @@
+h1{
+	color: red;
+	text-align: center;
+	margin-top: 50px;
+}
+body{
+	background: yellow;
+	font-weight: bold;
+	font-family: Times, sans-serif;
+	
+}
+p{
+	text-indent: right;
+	margin-right: 15px;
+	margin-left: 15px;
+	font-size: 1.1em;
+
+}
+
+#sh{
+	text-decoration: underline;
+	margin: 15px;
+}
+ul{
+	margin: 15px;
+}
+a{
+	margin: 15px;
+}
